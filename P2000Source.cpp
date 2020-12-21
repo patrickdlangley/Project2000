@@ -13,6 +13,9 @@ int main()
 
 	cout << "\nThis is a new program";
 
+	cout << "\nChange #1-P2000";
+
+
 	cout << endl << endl;
 	system("pause");
 	return 0;
